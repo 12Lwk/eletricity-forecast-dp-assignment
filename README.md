@@ -143,4 +143,4 @@ While this project successfully developed a robust forecasting model, future enh
 ## **Author**
 
 -   **Your Name**
--   [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url)
+-   [![Connect on LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/lee-wen-kang-3b76b6188/))
