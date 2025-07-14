@@ -7,9 +7,6 @@
 
 This project develops and evaluates a suite of deep learning models to accurately forecast short-term electricity demand. Using a comprehensive dataset from Spain, this work explores various neural network architectures—including LSTMs, CNNs, and advanced hybrid models—to predict hourly electricity load changes over a 24-hour horizon.
 
-![Actual vs. Predicted Load](./assets/forecast_visualization.png)
-*(Image: A sample 24-hour forecast from the best-performing model, demonstrating its ability to track actual load changes.)*
-
 ---
 
 ## **Table of Contents**
