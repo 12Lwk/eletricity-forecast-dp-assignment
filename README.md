@@ -139,4 +139,4 @@ While this project successfully developed a robust forecasting model, future enh
 ## **Author**
 
 -   **Lee Wen Kang**
--   [Connect on LinkedIn](https://www.linkedin.com/in/lee-wen-kang-3b76b6188/)
+-   [Connect on LinkedIn](https://www.linkedin.com/in/leewenkang12/)
